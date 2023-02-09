@@ -1,0 +1,7 @@
+com.ldm.practica1_quiz.test.app-androidTest-0 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\build\generated\res\resValues\androidTest\debug
+com.ldm.practica1_quiz.test.app-androidTest-1 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\build\generated\res\rs\androidTest\debug
+com.ldm.practica1_quiz.test.app-mergeDebugAndroidTestResources-2 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ldm.practica1_quiz.test.app-mergeDebugAndroidTestResources-3 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ldm.practica1_quiz.test.app-merged_res-4 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\build\intermediates\merged_res\debugAndroidTest
+com.ldm.practica1_quiz.test.app-androidTest-5 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\src\androidTest\res
+com.ldm.practica1_quiz.test.app-androidTestDebug-6 C:\Users\Ivan\AndroidStudioProjects\Practica1QUIZ\app\src\androidTestDebug\res

@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_mckerrow.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\mckerrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_button_rounded.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_trofeos1.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\trofeos1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_universidad.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\universidad.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_fondofederer.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\fondofederer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_borj.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\borj.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_djockovic.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\djockovic.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_envelope.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\envelope.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_moya.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\moya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable_nadalfederer.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable\\nadalfederer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_federer.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\federer.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_trofeos2.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\trofeos2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_trofeos22.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\trofeos22.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\layout_fragment_image.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\layout\\fragment_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\layout_activity_puntuacion.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\layout\\activity_puntuacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\layout_imagen.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\layout\\imagen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_murray.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\murray.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_trofeos20.jpeg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\trofeos20.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_trofeos.jpg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\trofeos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_toni.jpeg.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\toni.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\drawable-v24_nadal.png.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\drawable-v24\\nadal.png"
+    },
+    {
+        "merged": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-merged_res-25:\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\Ivan\\.gradle\\daemon\\7.4\\com.ldm.practica1_quiz.app-main-27:\\layout\\activity_log_in.xml"
+    }
+]
